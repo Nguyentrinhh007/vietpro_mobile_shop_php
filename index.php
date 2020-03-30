@@ -38,7 +38,7 @@
         </button>
     </div>
     <!--	End Header	-->
-    // demo cùng một lúc
+    // demo cùng 
     <!--	Body	-->
     <div id="body">
         <div class="container">
