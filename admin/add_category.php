@@ -3,6 +3,7 @@ if(!defined('TEMPLATE')){
 	die('Bạn không có quyền truy cập vào file này!');
 }
 
+
 if (isset($_POST['sbm'])) {
 	$cat_name = $_POST['cat_name'];
 
@@ -18,7 +19,6 @@ if (isset($_POST['sbm'])) {
 	} else {
 		$error = '<div class="alert alert-danger">Danh mục đã tồn tại !</div>';
 	}
-	
 
 }
 ?>
